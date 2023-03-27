@@ -19,9 +19,10 @@ Hello! My name is Lara, and I'm a creative developer with a passion for creating
 I have extensive experience with HTML and CSS, and am currently expanding my skillset to include programming languages beginning with JavaScript. In 2023, I will learn and create projects using tools including React, Node.js, MongoDB, and AWS, to be the best full-stack web developer I can be and make valuable contributions to the world of tech.
 
 ### 💬 Social
-<a href="https://www.linkedin.com/in/lara-sa/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-<a href="https://twitter.com/devlarabar"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"></a>
-<a href="https://www.codewars.com/users/devlarabar"><img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white&style=for-the-badge"></a>
+<a href="https://emine.bozdag.dev/"><img alt="Lara's portfolio" height="28px" src="https://img.shields.io/badge/website-771748?style=for-the-badge&logo=About.me&logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/lara-sa/"><img alt="Lara's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://twitter.com/devlarabar"><img alt="Lara's Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.codewars.com/users/devlarabar"><img alt="Lara's Codewars" src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white&style=for-the-badge"></a>
 
 ### :hammer_and_wrench: Languages
 <div>
