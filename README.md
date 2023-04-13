@@ -1,7 +1,7 @@
 ### 😄 About Me
 Hello! My name is Lara, and I'm a creative developer with a passion for creating web applications that are responsive and mobile-friendly. For over three years, I lived full-time in a semi truck with my husband and cat, with little to no access to a computer or Wi-Fi. I relied heavily on my phone for everything from managing my business to gaming in my free time. It made me appreciate the importance of mobile-responsiveness in web apps.
 
-When I'm not coding, I enjoy working out, playing with my cat or gaming with my husband.
+When I'm not coding, I enjoy drawing, lifting heavy things, playing with my cat or gaming with my husband.
 
 ### 📃 My Skills
 I have extensive experience with HTML and CSS, and am currently expanding my skillset to include programming languages beginning with JavaScript. In 2023, I will learn and create projects using tools including React, Node.js, MongoDB, and AWS, to be the best full-stack web developer I can be and make valuable contributions to the world of tech.
