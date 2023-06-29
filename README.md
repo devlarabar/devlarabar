@@ -3,5 +3,5 @@ Hello! My name is Lara, and I'm a creative developer with a passion for creating
 
 ### :hammer_and_wrench: Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,react,python,django" />
 </div>
