@@ -3,7 +3,7 @@ Hello! My name is Lara, and I'm a creative developer with a passion for health a
 
 **Some fun facts about me:**
 - :maple_leaf: I was born in the US, but grew up in Canada
-- :video_game: My favourite video games are *Legend of Zelda: Breath of the Wild*, *Fallout 4*, and *Minecraft*
+- :video_game: My favourite video games are *Legend of Zelda: Breath of the Wild*, *Fallout 4*, *League of Legends* and *Minecraft*
 - :paintbrush: I am an artist and highly creative - coding is an extension of that creativity!
 - :truck: I lived in a semi-truck for 3 years, where I learned to work, cook, code, and exercise in a tiny metal box on wheels every day
 
