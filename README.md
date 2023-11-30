@@ -8,6 +8,8 @@ Hello! My name is Lara, and I'm a creative developer with a passion for health a
 - :truck: I lived in a semi-truck for 3 years, where I learned to work, cook, code, and exercise in a tiny metal box on wheels every day
 
 ### :hammer_and_wrench: Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,mongodb,react,next,python,django" />
-</div>
+#### Software Development:
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,react,next,python,django,mongodb,postgres" />
+
+#### Illustration & Design:
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,miro" />
