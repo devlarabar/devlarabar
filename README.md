@@ -9,7 +9,7 @@ Hello! My name is Lara, and I'm a creative developer with a passion for health a
 
 ### :hammer_and_wrench: Tools
 #### Software Development:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,react,next,python,django,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,react,next,astro,python,django,mongodb,postgres" />
 
 #### Illustration & Design:
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,miro" />
