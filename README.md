@@ -1,5 +1,5 @@
 ### :smiley_cat: About Me
-Hello! My name is Lara, and I'm a creative developer with a passion for health and wellness. I have a varied background, including experience in the military and transportation industry (ask me about my trucker wellness app!). When I'm not coding, I enjoy drawing, lifting heavy things, playing with my cat or gaming with my husband.
+Hello! My name is Lara, and I'm a creative developer with a passion for health and wellness. I have a varied background, including experience in the military and transportation industry (ask me about my trucker wellness app!). When I'm not coding, I enjoy drawing, lifting heavy things, and gaming.
 
 **Some fun facts about me:**
 - :maple_leaf: I was born in the US, but grew up in Canada
