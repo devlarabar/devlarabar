@@ -1,5 +1,5 @@
 ### :smiley_cat: About Me
-Hello! My name is Lara, and I'm a creative software engineer with a passion for health and wellness. I have a varied background, including experience in web design as well as the military and transportation industry. I enjoy drawing, lifting heavy things, and gaming.
+Hello! My name is Lara, and I'm a creative software engineer who enjoys drawing, lifting heavy things, and gaming.
 
 **Ask me about [Grundo's Café](https://grundos.cafe) and [Tiny Doom](http://tinydoom.com/)!**
 
